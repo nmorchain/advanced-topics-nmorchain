@@ -3,12 +3,12 @@ var loadPopcorn = function () {
 var pop = Popcorn( "#media" );
  pop.image({
  // seconds
-start: 5,
+start: 2,
 // seconds
 end: 15,
-href: "http://www.drumbeat.org/",
-src: "https://www.drumbeat.org/media//images/drumbeat-logo-splash.png",
-text: "DRUMBEAT",
+href: "https://www.shopify.com",
+src: "https://cdn.shopify.com/s/files/1/0815/6851/articles/tracy168_widlstyle.jpg?v=1534438002",
+text: "GRAFITTI",
 target: "popcorn-container"
 });
 };
