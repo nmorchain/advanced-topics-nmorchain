@@ -1,3 +1,5 @@
+var loadPopcorn = function () {
+    var pop = Popcorn("#media", {pauseOnLinkClicked: true});
 var pop = Popcorn( "#media" );
  pop.image({
  // seconds
@@ -9,3 +11,4 @@ src: "https://www.drumbeat.org/media//images/drumbeat-logo-splash.png",
 text: "DRUMBEAT",
 target: "popcorn-container"
 });
+};
