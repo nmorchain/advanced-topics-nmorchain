@@ -1,0 +1,3 @@
+# intro here
+
+1520 Sedgwick Avenue--the birthplace of Hip-Hop. In the 1970s the New York music scene was evolving and, by the early 1980s, a new genre of music was born--Hip-Hop. While an auditory revolution was going on in places like South Bronx, Queens, and Brooklyn, much of the world ignorned it. Thus, much of our knowledge of Hip-Hop's infancy comes from the stories told by those who were there. From the DJ Kool Herc's block parties infront of 1520 Sedgwick Avenue to graffiti artist Fab Five Freddy's meetings with Blondie, this page looks at the events which transpired that gave us the biggest music genre in the world--Hip-Hop. 
