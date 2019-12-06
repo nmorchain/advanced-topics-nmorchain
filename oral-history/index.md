@@ -1,4 +1,4 @@
-# Your Title should go in the appropriate place in `index.html`, not here! Title is itself set only in the `<head>` element
+
 
 On August 11th, 1973 DJ Kool Herc hosted a back to school block party at 1520 Sedgwick Avenue. It is there, sometime between 9 o’clock at night and 4 in the morning, that Hip-Hop was born. During the “Back to School Jam”, DJ Kool Herc borrowed a technique from Manhattan’s Downtown Disco-Techs—the use of two turntables so that they would not have to stop the music when changing records. However, Herc put his own twist on it. Herc used them to extend the instrumental breaks (the parts of the songs where the singing stops, but the music continues)—simply known as “The Breaks”—on the records. Herc’s next innovation would be “The Merry Go Round”. Instead of allowing The Breaks to play to an end, Herc would mix between them to create a continuous dance rhythm. This would form the basis of Hip-Hop. 
 
