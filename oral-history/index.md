@@ -14,10 +14,10 @@ Retelling Hip-Hop’s genesis, thus, highlights the difficulties historians face
 
   - 
 
-    Style Wars [^https://www.youtube.com/watch?v=r4jniA9QsNI&t].
+    Audio Sourced from: Style Wars [^https://www.youtube.com/watch?v=r4jniA9QsNI&t].
 
-    History of Hip Hop [^https://www.youtube.com/watch?v=LhrSlOa2bsA&t].
+    Audio Sourced from: History of Hip Hop [^https://www.youtube.com/watch?v=LhrSlOa2bsA&t].
 
-    TODAY IN HIP HOP HISTORY: KOOL HERC’S PARTY AT 1520 SEDGWICK AVENUE 45 YEARS AGO MARKS THE FOUNDATION OF THE CULTURE KNOWN AS HIP HOP [^https://thesource.com/2018/08/11/today-in-hip-hop-history-kool-hercs-party-at-1520-sedgewick-avenue-45-years-ago-marks-the-foundation-of-the-culture-known-as-hip-hop/].
+    Information on DJ Kool Herc Sourced from: TODAY IN HIP HOP HISTORY: KOOL HERC’S PARTY AT 1520 SEDGWICK AVENUE 45 YEARS AGO MARKS THE FOUNDATION OF THE CULTURE KNOWN AS HIP HOP [^https://thesource.com/2018/08/11/today-in-hip-hop-history-kool-hercs-party-at-1520-sedgewick-avenue-45-years-ago-marks-the-foundation-of-the-culture-known-as-hip-hop/].
 
-    FOUNDING FATHERS: The Untold Story of Hip Hop-Narrated by Chuck D [^https://www.youtube.com/watch?v=1G13bR0B0-8&t].
+    Information on Grandmaster Flowers Sourced from: FOUNDING FATHERS: The Untold Story of Hip Hop-Narrated by Chuck D [^https://www.youtube.com/watch?v=1G13bR0B0-8&t].
