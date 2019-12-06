@@ -12,23 +12,12 @@ The challenge with relying on these stories is that they often conflict. While t
 Retelling Hip-Hop’s genesis, thus, highlights the difficulties historians face when working with oral history. Oral historians work to uncover truths and preserve compelling histories which might become lost. However, the nature of oral history requires that those providing the oral history offer accurate representations of the event(s) they are retelling. Thus, an oral historian’s ability to uncover the truth relies on the truthfulness of the testimonies they are provided. Bridging the gap between fact and fiction can, then, be difficult if oral historians do not have objective information to pull apart truth from embellishments and narrative-driven stories. Hip-Hop then, provides a unique challenge to historians as the information provided can be, and often is, only fragments of the whole story. Thus, retelling the origins of Hip-Hop is important not only to those who have a love for the genre, but also as a case study of the challenges oral historians face in their field. 
  
 
-Add your content here, including _markup_ of **various kinds**. Now you can just write! But you should be aware of a couple of advanced features of markdown:
-- you can embed HTML directly n a markdown file. This is great if you want to add complex attributes like **classes**, e.g. to your `img` tags so that they display properly (though you can also use the `{.css-selector}` method ddescribed in the main readme.
-  - a particular use of embedded HTML is for funky javascript function links. I've written a simple function that will seek to a particular time code in seconds.  You can call it like this: `<a href="javascript:seek(75)">seek to 1:15</a>`, but `[seek to 1:15](javascript:seek(75))` won't render properly, so you have to type the whole link in, as seen here: <a href="javascript:seek(75)"> seek to 1:15</a>.
-  - also, markdown-it supports pandoc-style footnotes, which can be helpful sometimes. Here are some examples of footnotes at work:
+  - 
 
-    Footnote 1 link[^first].
+    Style Wars [^https://www.youtube.com/watch?v=r4jniA9QsNI&t].
 
-    Footnote 2 link[^second].
+    History of Hip Hop [^https://www.youtube.com/watch?v=LhrSlOa2bsA&t].
 
-    Inline footnote^[Text of inline footnote] definition.
+    TODAY IN HIP HOP HISTORY: KOOL HERC’S PARTY AT 1520 SEDGWICK AVENUE 45 YEARS AGO MARKS THE FOUNDATION OF THE CULTURE KNOWN AS HIP HOP [^https://thesource.com/2018/08/11/today-in-hip-hop-history-kool-hercs-party-at-1520-sedgewick-avenue-45-years-ago-marks-the-foundation-of-the-culture-known-as-hip-hop/].
 
-    Duplicated footnote reference[^second].
-
-
-[^first]: Footnote **can have markup**
-
-    and multiple paragraphs.
-
-[^second]: Footnote text.
-
+    FOUNDING FATHERS: The Untold Story of Hip Hop-Narrated by Chuck D [^https://www.youtube.com/watch?v=1G13bR0B0-8&t].
