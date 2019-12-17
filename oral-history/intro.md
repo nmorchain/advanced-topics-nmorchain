@@ -1,7 +1,7 @@
 # Origins of Hip-Hop
 Since the mid-1970s, Hip-Hop has grown from a grassroots musical genre into a cultural phenomenon. Despite Hip-Hop’s growing influence on youth culture, there have been few academic historical studies which have examined Hip-Hop’s emergence. In their *Introduction* Alridge and Stewart (2005) issue a plea for historians to take more seriously the study of Hip-Hop as a cultural, political, economic, and intellectual phenomenon: 
 
-> We encourage scholars to expand their efforts to include collecting oral histories of Hip Hop, identifying and preserving artifacts that document the evolution of Hip Hop, and developing flexible and historically derived frameworks through which to examine (pg. 194).[^first]
+> "We encourage scholars to expand their efforts to include collecting oral histories of Hip Hop, identifying and preserving artifacts that document the evolution of Hip Hop, and developing flexible and historically derived frameworks through which to examine." (pg. 194)[^first]
 
 [^first]: <a href="https://www.journals.uchicago.edu/doi/abs/10.1086/JAAHv90n3p190?journalCode=jaah">Alridge, D., & Stewart, J. (2005). Introduction: Hip Hop in History: Past, Present, and Future. The Journal of African American History, 90(3), 190-195. Retrieved from www.jstor.org/stable/20063997</a>. 
 
