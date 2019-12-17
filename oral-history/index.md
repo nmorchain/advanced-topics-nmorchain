@@ -21,7 +21,7 @@ François c'est pas, Flash ain't no dude
 
 And you don't stop, sure shot"[<a href="javascript:seek(192)">Listen Here</a>]
 
-"Fab Five Freddy" begin Debbie Harry's friend who introduced her to Hip-Hop and "Flash" being Grandmaster Flash. Grandmaster Flash and his group, the Furious Five, would go on to create some of the first Hip-Hop songs to chart on the Billboard Hot 100. [<a href="javascript:seek(280)">Listen to Granmaster Flash talk about Harry's shoutout to him here</a>]
+"Fab Five Freddy" begin Debbie Harry's friend who introduced her to Hip-Hop and "Flash" being Grandmaster Flash. Grandmaster Flash and his group, the Furious Five, would go on to create some of the first Hip-Hop songs to chart on the Billboard Hot 100. [<a href="javascript:seek(219)">Listen to Granmaster Flash talk about Harry's shoutout to him here</a>]
 
  Following the release of Rapture, Hip-Hop began to receive more attention from media outlets and has continued to grow into, what is now, the biggest music genre in the world. 
 
