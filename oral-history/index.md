@@ -35,6 +35,7 @@ Retelling Hip-Hop’s genesis, thus, highlights the difficulties historians face
 
 Thus, as cases such as Barett's highlight, an oral historian’s ability to uncover the truth relies on the truthfulness of the testimonies they are provided. Bridging the gap between fact and fiction can, then, be difficult, if oral historians do not have objective information to pull apart truth from embellishments and narrative-driven stories. Hip-Hop then, provides a unique challenge to historians as the information provided can be, and often is, only fragments of the whole story. Thus, retelling the origins of Hip-Hop is important not only to those who have a love for the genre, but also as a case study of the challenges oral historians face in their field.
 
+
 # Referenced Sources
 
 __Youtube Videos__
@@ -64,7 +65,6 @@ __Articles__
 
 <a href="https://nyti.ms/29pBuab">”New York Day by Day; Spray Cans and Graffiti” by Deirdre Carmody and David W. Dunlap, New York Times (1985)</a>
 
-
 <a href="https://nyti.ms/29wOis1">”Islip Moving Against Graffiti” by Christopher B. Pollak, New York Times (1985)</a>
 
 <a href="https://nyti.ms/29DlTmH">”Spray Paint Sales Curbed in Graffiti Wars” by Lena Williams, New York Times (1985)</a>
@@ -76,6 +76,8 @@ __Hyperlinked Wikipedia Pages (In Alphabetical Order)__
 
 
 <a href="https://en.wikipedia.org/wiki/Afrika_Bambaataa">Afrika Bambaataa</a>
+
+<a href="https://en.wikipedia.org/wiki/Big_Bank_Hank">Big Bank Hank</a>
 
 <a href="https://en.wikipedia.org/wiki/Blondie_(band)">Blondie, Band</a>
 
