@@ -84,6 +84,10 @@ __Youtube Videos__
 
 <a href="https://www.youtube.com/watch?v=oi5b_j-c5Ng">Special News Report on NWA's lyrics and Violence</a>
 
+<a href="https://www.youtube.com/watch?v=gYMkEMCHtJ4">Grandmaster Flash and the Furious Five, "The Message" (Sugarhill Records, 1982)</a>
+
+<a href="https://www.youtube.com/watch?v=pHCdS7O248g">Blondie, "Rapture" (Chrysalis Records, 1981)</a>
+
 __Articles__
 
 <a href="https://www.jstor.org/stable/20063999?seq=1#metadata_info_tab_contents">Alridge, D. (2005). From Civil Rights to Hip Hop: Toward a Nexus of Ideas. The Journal of African American History, 90(3), 226-252. Retrieved from www.jstor.org/stable/20063999</a>
