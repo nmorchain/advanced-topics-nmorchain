@@ -80,7 +80,7 @@ __Youtube Videos__
 
 <a href="https://www.youtube.com/watch?v=1G13bR0B0-8&t">FOUNDING FATHERS: The Untold Story of Hip Hop-Narrated by Chuck D</a>
 
-<a href="https://www.youtube.com/watch?v=sT7EVjyV_rg">News Report on NWA's lyrics</a>
+<a href="https://www.youtube.com/watch?v=sT7EVjyV_rg">News Report by CBS on NWA's lyrics </a>
 
 <a href="https://www.youtube.com/watch?v=oi5b_j-c5Ng">Special News Report on NWA's lyrics and Violence</a>
 
