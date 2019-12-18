@@ -92,7 +92,9 @@ __Articles__
 
 <a href="http://www.historyworkshop.org.uk/oral-history-creative-non-fiction-telling-the-lives-of-the-sugar-girls/">Barrett, D. (2012), August 1). Oral History & Creative Non-Fiction: Telling the Lives of the Sugar Girls. Retrieved December 9, 2019, from http://www.historyworkshop.org.uk/oral-history-creative-non-fiction-telling-the-lives-of-the-sugar-girls/.</a>
 
-<a href="https://nyti.ms/29pBuab">Carmondy D. and Dunlap D. W. (1985). ”New York Day by Day; Spray Cans and Graffiti,” New York Times </a>
+<a href="https://nyti.ms/29pBuab">Carmondy, D. and Dunlap, D. W. (1985). ”New York Day by Day; Spray Cans and Graffiti,” New York Times </a>
+
+<a href="https://www.rollingstone.com/music/music-news/robin-thicke-pharrell-sue-over-blurred-lines-188052/">Coulehan, E. (2013). "Robin Thicke, Pharrell Sue Over 'Blurred Lines,'" Rolling Stone</a>
 
 <a href="https://www.businessinsider.com/ed-koch-wanted-to-use-wolves-to-stop-graffiti-2013-2">Davies, A. (4 February 2013). "NYC Mayor Ed Koch Wanted to Use Wild Wolves to Stop Graffiti on Subways". Business Insider. Retrieved 1 December 2019.
 
